@@ -28,10 +28,16 @@
       />
      </div>
       <span align="center" style="display:inline-block; padding:5px 10px; background:#e0e0e0; border-radius:4px;">
-        JavaScript | Express.js | Typescript | React.js | Postgrest SQL
+        <div align="center">
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=flat-square" alt="Express.js Badge">
+<img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript Badge">
+<img src="https://img.shields.io/badge/React.js-61dafb?logo=react&logoColor=white&style=flat-square" alt="React.js Badge">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL Badge">
       </span>
       <p style="margin:10px 0;">
-      Primera versión funcional de una agenda para crear listas de              tareas, todo de manera dinámicas. <br>
+      Primera versión funcional de una agenda para crear listas de tareas<br>
+      Incluye inicio de sesión seguro y creación de tareas de forma dinámica,<br>
       </p>
       <div style="margin-top:10px;">
         <a target="_blank" href="https://task-to-do-frontend.vercel.app/login">Ver Página</a>
