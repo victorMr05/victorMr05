@@ -17,7 +17,7 @@
 
 <div align="center">
 <table style="width:100%; border-collapse: collapse;">
-  <tr>
+  <!-- <tr>
     <td>
       <h2 align="center">My Planner V1.0</h2>
      <div align="center">
@@ -42,7 +42,7 @@
       <div align="center" style="margin-top:10px;">
         <a target="_blank" href="https://task-to-do-frontend.vercel.app/login">Ver Página</a>
       </div>
-    </td>
+    </td> -->
      <td>
       <h2 align="center">Risk Map Chile V1.0</h2>
      <div align="center">
