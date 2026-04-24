@@ -69,6 +69,30 @@
         <a target="_blank" href="https://krismoshiro.github.io/risk-map-chile-front/">Ver Página</a>
       </div>
     </td> 
+         <td>
+      <h2 align="center">DASI</h2>
+     <div align="center">
+       <img width="250" height="250" alt="DASI LOGO" src="https://github.com/user-attachments/assets/5bb1b336-b149-49e2-85ea-ad1d49d23afb" />
+     </div>
+      <span align="center" style="display:inline-block; padding:5px 10px; background:#e0e0e0; border-radius:4px;">
+        <div align="center"> 
+          <img src="https://img.shields.io/badge/Proyecto Empresarial-dedb7c?logo=data-point&logoColor=white&style=flat-square" alt="Proyecto Empresarial">
+          <img src="https://img.shields.io/badge/Programador Front End-0052CC?logo=data-point&logoColor=white&style=flat-square" alt="Programador Front-End">
+        </div>
+      </span>
+      <p style="margin:10px 0;">
+        DASI es una aplicación de aprendizaje gamificado orientada a capacitar
+        trabajadores en prevención de riesgos y temas clave de seguridad laboral,
+        salud ocupacional y medioambiente. Mi principal rol dentro del equipo de 
+        desarrollo fue programador front-end, velando por el rendimiento de la 
+        aplicación. Además, contribuí al diseño de la interfaz y a la implementación
+        de funcionalidades basadas en los requerimientos funcionales definidos por
+        la empresa, procurando una experiencia de uso clara y eficiente.
+      </p>
+      <div align="center" style="margin-top:10px;">
+        <a target="_blank" href="https://www.dreamside.cl/wp-content/uploads/2025/07/Brochure_DASI-2025.pdf">Ver Documento</a>
+      </div>
+    </td> 
   </tr>
 </table>
 </div>
