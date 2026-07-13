@@ -55,11 +55,9 @@
      </div>
       <span align="center" style="display:inline-block; padding:5px 10px; background:#e0e0e0; border-radius:4px;">
         <div align="center">
-            <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript Badge">
-            <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=flat-square" alt="Express.js Badge">
             <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript Badge">
             <img src="https://img.shields.io/badge/React_Native-61dafb?logo=react&logoColor=white&style=flat-square" alt="React.js Badge">
-            <img src="https://img.shields.io/badge/SQLite-336791?logo=postgresql&logoColor=white&style=flat-square" alt="SQLite Badge">
+            <img src="https://img.shields.io/badge/SQLite-336791?logo=sqlite&logoColor=white&style=flat-square" alt="SQLite Badge">
           </div>
       </span>
       <p style="margin:10px 0;">
