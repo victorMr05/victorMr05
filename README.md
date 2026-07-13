@@ -64,7 +64,7 @@
       Primera versión de una aplicación de gestión de tareas minimalista para crear tareas de forma dinámica. Diseñada para optimizar la productividad mediante una experiencia ágil y confiable. La aplicación se está en proceso de publicación en la Play Store, donde se encuentra en etapa de Prueba Cerrada, con 12 tester evaluando el sistema entregando retroalimentación mediante formulario
       </p>
       <div align="center" style="margin-top:10px;">
-        <a target="_blank" href="https://task-to-do-frontend.vercel.app/login">No publicado aún</a>
+        <a target="_blank" href="">No publicado aún</a>
       </div>
     </td> 
      <td>
