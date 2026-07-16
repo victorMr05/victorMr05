@@ -26,7 +26,6 @@ de sistemas funcionales, eficientes y orientados a resolver problemas reales.
    <tr id="My Plan To Do">
      <td>
         <h2>My Plan To Do V1.0</h2>
-      <span style="display:inline-block; padding:5px 10px; background:#e0e0e0; border-radius:4px;">
         <div>
             <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript Badge">
             <img src="https://img.shields.io/badge/React_Native-61dafb?logo=react&logoColor=white&style=flat-square" alt="React.js Badge">
