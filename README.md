@@ -64,7 +64,7 @@ de sistemas funcionales, eficientes y orientados a resolver problemas reales.
       <p style="margin:10px 0;">
      Versión Alpha de una aplicación de gestión de tareas, con autenticación segura y capacidad para crear tareas de forma dinámica. Diseñada para optimizar la productividad mediante una experiencia ágil y confiable. <br><br>
         <b>PD:</b> 
-        Es la primera versión de la aplicación "My Plan To Do". Actualmente no se encuentra operativa debido a la falta de presupuesto; sin embargo, fue desarrollada como un proyecto de aprendizaje para consolidar mis habilidades en ingeniería de software y explorar nuevas tecnologías.
+        Es la primera versión de la aplicación "My Plan To Do", siendo la original. Actualmente no se encuentra operativa debido a la falta de presupuesto; sin embargo, fue desarrollada como un proyecto de aprendizaje para consolidar mis habilidades en ingeniería de software y explorar nuevas tecnologías.
       </p>
      </td>
      <td>
