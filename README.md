@@ -96,7 +96,7 @@ de sistemas funcionales, eficientes y orientados a resolver problemas reales.
         accidentes automovilísticos. Cada zona posee información del numero
         de accidentes junto al horario que mas frecuentaron. Además del conteo
         de personas desde ilesos hasta fallecidos.<br>
-        Esta primera versión, sólo se puede visualizar en la región de Tarapacá.
+        Esta primera versión solo puede visualizarse en la región de Tarapacá.
       </p>
     </td> 
      <td>
