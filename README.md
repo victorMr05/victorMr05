@@ -34,7 +34,7 @@ de sistemas funcionales, eficientes y orientados a resolver problemas reales.
           </div>
       </span>
       <p style="margin:10px 0;">
-      Primera versión de una aplicación de gestión de tareas minimalista para crear tareas de forma dinámica. Diseñada para optimizar la productividad mediante una experiencia ágil y confiable. La aplicación se está en proceso de publicación en la Play Store, donde se encuentra en etapa de Prueba Cerrada, con 12 tester evaluando el sistema entregando retroalimentación mediante formulario
+      Primera versión de una aplicación de gestión de tareas minimalista para crear tareas de forma dinámica. Diseñada para optimizar la productividad mediante una experiencia ágil y confiable. La aplicación se está en proceso de publicación en la Play Store, <b>donde se encuentra en etapa de Prueba Cerrada</b>, con 12 tester evaluando el sistema entregando retroalimentación mediante formulario
       </p>
      </td>
      <td>
@@ -93,10 +93,11 @@ de sistemas funcionales, eficientes y orientados a resolver problemas reales.
         </div>
       </span>
       <p style="margin:10px 0;">
-        Sitio web, puedes visualizar un mapa con zonas de mayor riesgos de
+        Sitio web donde puedes visualizar un mapa con zonas de mayor riesgos de
         accidentes automovilísticos. Cada zona posee información del numero
         de accidentes junto al horario que mas frecuentaron. Además del conteo
-        de personas desde ilesos hasta fallecidos.
+        de personas desde ilesos hasta fallecidos.<br>
+        Esta primera versión, sólo se puede visualizar en la región de Tarapacá.
       </p>
     </td> 
      <td>
