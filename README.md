@@ -1,12 +1,18 @@
 <h2 align="center">Bienvenido,<br> me llamo Victor Muñoz</h2>
 <p align="center">
   <b>Ingeniero Civil Informático</b><br>
-  <i>En constante formación y en búsqueda de nuevos desafíos</i>
+  <i>En constante formación y en búsqueda de nuevos desafíos</i><br>
+</p>
+<p>
+  Titulado de la Universidad de Tarapacá con más de dos años de experiencia en
+desarrollo web, gestión de bases de datos e integración de APIs. Manejo de tecnologías como JavaScript,
+TypeScript, React y Node.js, aplicadas en proyectos académicos y profesionales. Interesado en el desarrollo
+de sistemas funcionales, eficientes y orientados a resolver problemas reales.
 </p>
 <h3>Sobre mi</h3>
 
 <div>
-🧑‍💻 Analista de sistemas<br>
+🧑‍💻 Ingeniero de Softwares<br>
 💻 Desarrollador de software<br>
 🌐 Desarrollador web<br>
 📱 Desarrollador mobile<br>
@@ -17,7 +23,7 @@
 
 <div>
  <table>
-   <tr>
+   <tr id="My Plan To Do">
      <td>
         <h2>My Plan To Do V1.0</h2>
       <span style="display:inline-block; padding:5px 10px; background:#e0e0e0; border-radius:4px;">
@@ -45,6 +51,36 @@
      </td>
    </tr>
    <tr>
+     <td>
+        <h2>My Planner (My Plan To Do Web Version - Demo)</h2>
+        <div >
+            <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript Badge">
+            <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=flat-square" alt="Express.js Badge">
+            <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript Badge">
+            <img src="https://img.shields.io/badge/React.js-61dafb?logo=react&logoColor=white&style=flat-square" alt="React.js Badge">
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL Badge">
+          </div>
+      </span>
+      <p style="margin:10px 0;">
+     Versión Alpha de una aplicación de gestión de tareas, con autenticación segura y capacidad para crear tareas de forma dinámica. Diseñada para optimizar la productividad mediante una experiencia ágil y confiable. <br><br>
+        <b>PD:</b> 
+        Es la primera versión de la aplicación "My Plan To Do". Actualmente no se encuentra operativa debido a la falta de presupuesto; sin embargo, fue desarrollada como un proyecto de aprendizaje para consolidar mis habilidades en ingeniería de software y explorar nuevas tecnologías.
+      </p>
+     </td>
+     <td>
+        <div align="center">
+        <img 
+        src="https://github.com/user-attachments/assets/6b34b74c-1a23-45e8-879f-109c72c62260" 
+        alt="Logo myplanner"
+        width="250" height="250"
+      />
+     </div>
+      <div align="center" style="margin-top:10px;">
+        <a target="_blank" href="https://task-to-do-frontend.vercel.app/login">Ver Página</a>
+      </div>
+     </td>
+   </tr>
+   <tr id="Risk Map Chile">
     <td>
        <h2>Risk Map Chile V1.0</h2>
        <span style="display:inline-block; padding:5px 10px; background:#e0e0e0; border-radius:4px;">
@@ -74,7 +110,7 @@
       </div>    
      </td>
    </tr>
-   <tr>
+   <tr id="Dasi">
      <td>
          <h2 >DASI</h2>
           <span style="display:inline-block; padding:5px 10px; background:#e0e0e0; border-radius:4px;">
@@ -103,34 +139,4 @@
      </td>
    </tr>
  </table>
-  
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
-    <!-- <td>
-      <h2 align="center">My Planner V1.0</h2>
-     <div align="center">
-        <img 
-        src="https://github.com/user-attachments/assets/6b34b74c-1a23-45e8-879f-109c72c62260" 
-        alt="Logo myplanner"
-        width="250" height="250"
-      />
-     </div>
-      <span align="center" style="display:inline-block; padding:5px 10px; background:#e0e0e0; border-radius:4px;">
-        <div align="center">
-            <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript Badge">
-            <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=flat-square" alt="Express.js Badge">
-            <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript Badge">
-            <img src="https://img.shields.io/badge/React.js-61dafb?logo=react&logoColor=white&style=flat-square" alt="React.js Badge">
-            <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL Badge">
-          </div>
-      </span>
-      <p style="margin:10px 0;">
-      Primera versión operativa de una aplicación de gestión de tareas, con autenticación segura y capacidad para crear tareas de forma dinámica. Diseñada para optimizar la productividad mediante una experiencia ágil y confiable.
-      </p>
-      <div align="center" style="margin-top:10px;">
-        <a target="_blank" href="https://task-to-do-frontend.vercel.app/login">Ver Página</a>
-      </div>
-    </td> -->
-  </tr>
-</table>
 </div>
