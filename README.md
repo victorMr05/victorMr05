@@ -45,7 +45,7 @@ de sistemas funcionales, eficientes y orientados a resolver problemas reales.
       />
      </div>
       <div align="center" style="margin-top:10px;">
-        <a target="_blank" href="">No publicado aún</a>
+        <a target="_blank" href="https://krismoshiro.github.io/show-task-to-do/">Ver Landing Page</a>
       </div>
      </td>
    </tr>
