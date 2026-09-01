@@ -25,7 +25,7 @@ de sistemas funcionales, eficientes y orientados a resolver problemas reales.
  <table>
    <tr id="My Plan To Do">
      <td>
-        <h2>My Plan To Do V1.0 - Alpha</h2>
+        <h2>My Plan To Do V1.1.0 - Alpha</h2>
         <div>
             <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript Badge">
             <img src="https://img.shields.io/badge/React_Native-61dafb?logo=react&logoColor=white&style=flat-square" alt="React.js Badge">
@@ -33,7 +33,7 @@ de sistemas funcionales, eficientes y orientados a resolver problemas reales.
           </div>
       </span>
       <p style="margin:10px 0;">
-      Primera versión Alpha de una aplicación de gestión de tareas minimalista para crear tareas de forma dinámica. Diseñada para optimizar la productividad mediante una experiencia ágil y confiable. La aplicación se está en proceso de publicación en la Play Store, <b>donde se encuentra en etapa de Prueba Cerrada</b>, con 12 tester evaluando el sistema entregando retroalimentación mediante formulario
+      Primera versión Alpha de una aplicación de gestión de tareas minimalista para crear tareas de forma dinámica. Diseñada para optimizar la productividad mediante una experiencia ágil y confiable. La aplicación se encuentra disponible en la Play Store, puedes descargarlo haciendo click en el enlace directo
       </p>
      </td>
      <td>
@@ -45,7 +45,7 @@ de sistemas funcionales, eficientes y orientados a resolver problemas reales.
       />
      </div>
       <div align="center" style="margin-top:10px;">
-        <a target="_blank" href="https://krismoshiro.github.io/show-task-to-do/">Ver Landing Page</a>
+        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.tasktodomobile&hl=es_419">Ver en Play Store</a>
       </div>
      </td>
    </tr>
